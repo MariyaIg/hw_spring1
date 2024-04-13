@@ -1,5 +1,7 @@
 package com.ignateva.top.hwspring1;
 
+import org.springframework.stereotype.Component;
+@Component
 public class Italian implements Language{
 
     @Override

@@ -12,10 +12,10 @@
        http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
     <context:component-scan base-package ="com.ignateva.top.hwspring1"/>
-    <bean id="dayMaker" class = "com.ignateva.top.hwspring1.DayMaker"/>
+   <!-- <bean id="dayMaker" class = "com.ignateva.top.hwspring1.DayMaker"/>
     <bean id="eng" class = "com.ignateva.top.hwspring1.English"/>
     <bean id="ital" class = "com.ignateva.top.hwspring1.Italian"/>
-    <bean id="germ" class = "com.ignateva.top.hwspring1.German"/>
+    <bean id="germ" class = "com.ignateva.top.hwspring1.German"/>-->
 
 </beans>
 

@@ -1,5 +1,8 @@
 package com.ignateva.top.hwspring1;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class German implements Language{
     @Override
         public void getLanguage(int n) {
